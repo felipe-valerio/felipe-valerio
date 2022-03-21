@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lfsvalerio
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects involving Web
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on projects involving Natural Language Processing
 - 📫 How to reach me: luiz.valerio@fatec.sp.gov.br
 
 <!---
