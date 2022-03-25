@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lfsvalerio
-- 👀 I’m interested in Web and Android Development
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects involving React Native
+- 💞️ I’m looking to collaborate on projects involving React Native and TensorFlow
 - 📫 How to reach me: luiz.valerio@fatec.sp.gov.br
 
 <!---
