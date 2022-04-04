@@ -4,7 +4,7 @@
 - 📫 How to reach me: luiz.valerio@fatec.sp.gov.br
 
 <div>
-    <a href="https://github.com/lfsvalerio">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lfsvalerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsvalerio&layout=compact&theme=dracula&langs_count=16&themes=dracula"/>
+    <a href="https://github.com/lfvalerio">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lfvalerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvalerio&layout=compact&theme=dracula&langs_count=16&themes=dracula"/>
 <div>
