@@ -2,8 +2,8 @@
 ### Here are stats:
 <div>
     <a href="https://github.com/lfvalerio">
-    <img height="180px" width="420" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lfvalerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180px" width="420px" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvalerio&layout=compact&theme=dracula&langs_count=16&themes=dracula"/>
+    <img height="180px" width="420" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lfvalerio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180px" width="420px" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvalerio&layout=compact&theme=github_dark&langs_count=16&themes=dracula"/>
 </div>
     
 ### These are the technologies I'm using:
