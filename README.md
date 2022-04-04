@@ -1,4 +1,4 @@
-##👋 Hi, I’m @lfsvalerio
+## 👋 Hi, I’m @lfsvalerio
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: luiz.valerio@fatec.sp.gov.br
