@@ -6,7 +6,7 @@
     <img height="180px" width="420px" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvalerio&layout=compact&theme=dracula&langs_count=16&themes=dracula"/>
 </div>
     
-### Those are the technologies I'm using:
+### These are the technologies I'm using:
 <div>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
