@@ -1,5 +1,5 @@
 ## Hi, I'm Luiz Felipe! Welcome to my Github!
-### Here are stats:
+### Here are my stats:
 <div>
     <a href="https://github.com/lfvalerio">
     <img height="180px" width="420" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lfvalerio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
