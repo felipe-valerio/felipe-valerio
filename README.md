@@ -15,7 +15,7 @@
   <a href = "mailto:luiz.valerio@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Mail-gray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### Last but not least:
+### Integral part of my identity:
 <div>    
   <a href="https://en.m.wikipedia.org/wiki/Autistic_Pride_Day" target="_blank"><img src="https://img.shields.io/badge/-I'm_Autistic_and_Proud-white?style=for-the-badge&logo=persistent&logoColor=grey" target="_blank"></a>
 </div>
