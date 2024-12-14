@@ -1,10 +1,10 @@
 ## Hi, I'm Luiz Felipe! Welcome to my Github!
 ### Here are my stats:
 <div>
-    <a href="https://github.com/lfvalerio">
-    <img height="180px" width="400px" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lfvalerio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
-    <a href="https://github.com/lfvalerio">
-    <img height="180px" width="400px" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvalerio&layout=compact&theme=github_dark&langs_count=16&themes=dracula"/></a>
+    <a href="https://github.com/felipe-valerio">
+    <img height="180px" width="400px" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=felipe-valerio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/felipe-valerio">
+    <img height="180px" width="400px" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-valerio&layout=compact&theme=github_dark&langs_count=16&themes=dracula"/></a>
 </div>
 
 ### You can find me at:
